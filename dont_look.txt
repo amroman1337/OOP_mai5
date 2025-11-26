@@ -1,0 +1,6 @@
+cd build
+cmake ..
+cmake --build . --config Release
+
+.\Release\laba5.exe
+.\Release\tests.exe
